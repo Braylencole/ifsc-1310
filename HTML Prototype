@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta information -->
+    <meta charset="UTF-8">
+    <meta name="description" content="Information about Micheal Jordan">
+    <meta name="author" content="Braylen Coleman">
+    <title>Micheal Jordan</title>
+</head>
+<body>
+    <header>
+        <h1>Micheal Jordan is better than LeBron James</h1>
+    </header>
+    <main>
+        <section id="content">
+            <h2> Rookie Season</h2>
+            <p>Michael Jordan averaged 28.2 points, 6.5 rebounds and 5.9 assists in 82 games in his rookie season in 1984-85. He was selected to play in his first All-Star game, and won the Rookie of the Year award. While Lebron James averaged 20.9 points, 5.9 assists and 5.5 rebounds in 79 games in his rookie season in 2003-04. He won the Rookie of the Year award.</p>
+          <h2>Awards </h2>
+     <h3>Michael vs. Lebron </h3>
+          <ol>
+                <li>5 MVPs vs 4 MVPs  </li>
+                <li>1 Defensive Player of the Year vs. 0 Defensive Player of the Year</li>
+                <li>10 Scoring Titles vs. 1 Scoring Title </li>
+                <li> 6 Finals MVP vs 4 Finals MVP</li>
+         </ol>
+                  <h4> Top Selling Sneakers </h4>
+            <ul>
+              <li><em>Air Jordan Retro 1's </em>
+        <li><em>Air Jordan Retro 4's</em></li>
+        <li><em>Air Jordan Retro 3's</em></li>
+            </ul>
+            <dl>
+                <dt>Championships </dt>
+              <dd><strong>Michael Jordan is 6 for 6 in the Finals while lebron james 4 for 10 in the Finals.</strong></dd>
+            </dl>
+          <h4>Reason Why Michael Jordan is Better</h4>
+            <blockquote>Michael Jordan's scoring abilities are legendary, distinguishing him as one of the most prolific scorers in NBA history. Jordan won the scoring title ten times and has the highest career scoring average in NBA history, at 30.1 points per game. His ability to dominate games with his scoring, especially in crunch time, is often regarded as unequaled. Jordan's defensive influence is widely seen as superior than that of LeBron James. Jordan was a fierce defender who made several NBA All-Defensive Team appearances. His ability to lock down opponents, especially in crucial moments, was critical to the Bulls' success. While LeBron James is a decent defender, Michael Jordan's defensive accolades and reputation as one of the best two-way players in basketball history give him the advantage in this comparison. Jordan's influence extended beyond the basketball court, making him a global legend. His collaboration with Nike created the famous Air Jordan brand, which transcended basketball and became a cultural sensation.</q></blockquote>
+            <table>
+
+              <caption>Career Stats                  <tr>
+                        <th>Points</th>
+                        <th>Assists</th>
+                        <th>Rebound</th>
+                        <th>Steals</th>
+                        
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                <td>30.1</td>
+                <td>5.3</td>
+                <td>6.2</td>
+                <td>2.3</td>
+               
+                    </tr>
+                        
+                </tbody>
+            </table>
+            <img src="https://cdn.britannica.com/96/195196-050-3909D5BD/Michael-Jordan-1988.jpg" alt=">
+            <nav>
+                <ul>
+                    <li><a href="Home.html" title="Home">Home</a></li>
+                    <li><a href="https://en.wikipedia.org/wiki/Michael_Jordan" title="About" target="_blank">About</a></li>
+                    <li><a href="mailto:your@email.com" title="Contact">Contact</a></li>
+                </ul>
+            </nav>
+        </section>
+    </main>
+    <footer>
+        <h6>© 2024 Braylen Coleman | <a href="mailto:blcoleman1@ualr.edu">Email Me</a> | <a href="#top">Back to Top</a></h6>
+    </footer>
+</body>
+</html>
